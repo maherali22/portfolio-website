@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto',arial;
+  height: 2000px;
+  
+}
+
+.material-icons-outlined {
+  vertical-align: middle;
+  line-height: 1px;
+}
+
+.navbar-brand > .material-icons-outlined {
+  font-size: 40px;
+  
+}
+
+div>#pic {
+  width: 330px;
+  position: relative;
+  margin-left: 20px;
+}
+
+.navbar{
+  background-color: white;
+}
+
+.about > .material-icons-outlined{
+  font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
