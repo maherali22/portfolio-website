@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto',arial;
+  height: 2000px;
+  
+}
+
+.material-icons-outlined {
+  vertical-align: middle;
+  line-height: 1px;
+}
+
+.navbar-brand > .material-icons-outlined {
+  font-size: 40px;
+  
+}
+
+div>#pic {
+  width: 330px;
+  position: relative;
+  margin-left: 2px;
+}
+
+.navbar{
+  background-color: white;
+}
+
+.about > .material-icons-outlined{
+  font-size: 50px;
+}
+
+
+
+.contact-section {
+  background: linear-gradient(180deg, rgb(16, 109, 246), #6e8efb,#89a4ff);
+  border-radius: 15px;
+  padding: 30px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 10);
+  color: #fff;
+}
+
+.contact-section h6 {
+  color: white;
+  font-weight: bold;
+  font-style: 100;
+}
+
+.contact-section p {
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+
+.contact-section .lead {
+  font-weight: 300;
+}
+
+.contact-section .mb-5 {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.contact-section .mb-5:last-child {
+  border-bottom: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
